@@ -13,6 +13,6 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(user)
+	fmt.Println(usr)
 	fmt.Println(usr.HomeDir)
 }
